@@ -25,12 +25,12 @@ export default function AuthLayout({
                   <Image
                     width={231}
                     height={48}
-                    src="./images/logo/auth-logo.svg"
-                    alt="Logo"
+                    src="/images/logo/LOGO-2025-ST-White-on-BLACK.png"
+                    alt="STM Logo"
                   />
                 </Link>
                 <p className="text-center text-gray-400 dark:text-white/60">
-                  Free and Open-Source Tailwind CSS Admin Dashboard Template
+                  Maritime Operations Dashboard
                 </p>
               </div>
             </div>

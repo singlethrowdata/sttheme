@@ -4,9 +4,9 @@ import { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Next.js Calender | TailAdmin - Next.js Dashboard Template",
+  title: "Calendar | Single Throw Marketing - Marketing Operations Dashboard",
   description:
-    "This is Next.js Calender page for TailAdmin  Tailwind CSS Admin Dashboard Template",
+    "Manage your marketing campaigns, client meetings, and deadlines with Single Throw Marketing's Calendar",
   // other metadata
 };
 export default function page() {

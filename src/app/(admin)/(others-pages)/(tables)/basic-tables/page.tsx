@@ -5,10 +5,9 @@ import { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Next.js Basic Table | TailAdmin - Next.js Dashboard Template",
+  title: "Basic Tables | Single Throw Maritime - Maritime Operations Dashboard",
   description:
-    "This is Next.js Basic Table  page for TailAdmin  Tailwind CSS Admin Dashboard Template",
-  // other metadata
+    "Basic Tables page for Single Throw Maritime - Maritime Operations Dashboard",
 };
 
 export default function BasicTables() {
