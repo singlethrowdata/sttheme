@@ -51,6 +51,7 @@ const navItems: NavItem[] = [
       { name: "Multi-Step Form", path: "/forms/multi-step-demo", pro: false, new: true },
       { name: "Tag Input", path: "/forms/tag-input-demo", pro: false, new: true },
       { name: "Date Range Picker", path: "/forms/date-range-demo", pro: false, new: true },
+      { name: "Color Picker", path: "/forms/color-picker-demo", pro: false, new: true },
     ],
   },
   {
