@@ -54,6 +54,10 @@ const navItems: NavItem[] = [
       { name: "Color Picker", path: "/forms/color-picker-demo", pro: false, new: true },
       { name: "Range Slider", path: "/forms/range-slider-demo", pro: false, new: true },
       { name: "Star Rating", path: "/forms/star-rating-demo", pro: false, new: true },
+      { name: "File Upload", path: "/forms/file-upload-demo", pro: false, new: true },
+      { name: "Autocomplete", path: "/forms/autocomplete-demo", pro: false, new: true },
+      { name: "Switch / Toggle", path: "/forms/switch-toggle-demo", pro: false, new: true },
+      { name: "Checkbox Group", path: "/forms/checkbox-group-demo", pro: false, new: true },
     ],
   },
   {
